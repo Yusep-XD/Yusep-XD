@@ -86,7 +86,7 @@ bahasa = "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"
 
 ##############################
  # USER AGENT #
-ugen2=['Mozilla/5.0 (Linux; Android 7.1.1; CPH1723) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36']
+ugen2=Mozilla/5.0 (Linux; Android 11; M2010J19CG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.40 Mobile Safari/537.36
 ugen=['Mozilla/5.0 (Linux; Android 7.1.1; CPH1723) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/537.36']
 
 try:
